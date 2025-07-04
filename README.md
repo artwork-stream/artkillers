@@ -7,9 +7,9 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-@artkillers-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/-@artkillers-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/"><img src="https://img.shields.io/badge/-@artkillers-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
