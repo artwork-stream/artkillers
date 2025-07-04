@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydGk2Nm0yN2dxaWV4eW0wOHZvdHNibnU1MTIwN3gzZ2Zja21pZnEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" alt="Funny GIF" width="auto" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydGk2Nm0yN2dxaWV4eW0wOHZvdHNibnU1MTIwN3gzZ2Zja21pZnEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" alt="Funny GIF" width="400" />
 </p>
 
 <div align="center">
   <a href="https://github.com/artkillers"><img src="https://komarev.com/ghpvc/?username=artkillers&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="artkillers" /></a>
 </div>
-
+<br>
 <p align="center">
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-@artkillers-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="https://t.me/"><img src="https://img.shields.io/badge/-@artkillers-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
