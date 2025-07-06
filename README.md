@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydGk2Nm0yN2dxaWV4eW0wOHZvdHNibnU1MTIwN3gzZ2Zja21pZnEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" alt="Funny GIF" width="100%" />
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/artwork-stream?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/artwork-stream?style=for-the-badge&logo=star&date=05072025"/></a>
@@ -50,6 +50,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=artwork-stream&theme=transparent&hide_border=true&date=05072025">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=artwork-stream&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=05072025">
 </div>
