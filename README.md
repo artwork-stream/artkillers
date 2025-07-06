@@ -17,7 +17,7 @@
   <a href="https://wa.me/"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Sublime_Text-FF9800?logo=sublime-text&logoColor=white&style=flat" />
 </div>
-
+<br>
 <!-- Light mode -->
 <div align="center">
   <a href="https://github.com/artwork-stream#gh-light-mode-only">
@@ -37,7 +37,6 @@
     <img width="48%" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=artwork-stream&layout=compact&hide_border=true&langs_count=10" />
   </a>
 </div>
-
 <!-- Dark mode -->
 <div align="center">
   <a href="https://github.com/artwork-stream#gh-dark-mode-only">
@@ -47,7 +46,7 @@
     <img width="48%" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=artwork-stream&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=artwork-stream&theme=transparent&hide_border=true&date=05072025">
 </div>
